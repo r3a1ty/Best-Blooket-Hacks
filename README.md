@@ -3,10 +3,7 @@ We Are Updating The File Currently Look At Update Log Every Week For Updates To 
 The Current Software Is BLOOK-V1-MOD 
 We Will Add New Updates To GUI Every single Update Also Files Are Coming Soon!!
 
-UPDATE LOG :
-Release For GUI 
-Just Released Crypto-Hack And Monster Brawl Files 
-(REST OF GAMEMODES HACKS IS ON GUI)
+
 
 
 WARNING :
