@@ -1,10 +1,11 @@
-# Blooket-Mods
+# BestBlooket4
 We Are Updating The File Currently Look At Update Log Every Week For Updates To Be Released
-The Current Software Is BLOOK-V1-MOD 
-We Will Add New Updates To GUI Every single Update Also Files Are Coming Soon!!
+BestBlooket4 Has just been released
+
+BestBlooket4 Just Got released with new and amazing features!
 
 
-
+Currently Working On : BestBlooket5 
 
 WARNING :
 I DONT TAKE RESPONSBILETY OF WHAT HAPPENNS TO YOU. IF YOU DONT WANT YOUR ACCOUNT TO BE DELETED THE NEXT UPDATE WILL RELEASE A PREVENT SUSPRESION FILE.
