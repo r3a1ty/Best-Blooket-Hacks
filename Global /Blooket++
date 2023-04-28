@@ -1,6 +1,6 @@
 // Blooket-Hacks  -  @ 2023 R3A1TY LLC
 
-if (console_msg("Use Plus Features")) {
+if (console_msg("Blooket++")) {
 Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner.stateNode.plus = true
 Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner.stateNode.state.user.hasPlus = true
 Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner.stateNode.forceUpdate()
