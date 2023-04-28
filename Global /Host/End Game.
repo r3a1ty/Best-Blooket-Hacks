@@ -1,4 +1,4 @@
-// Blooket-Hacks  -  @ 2022 CrazyH & cph101
+// Blooket-Hacks  -  @ 2023 R3A1TY LLC
 
 if (console_msg("End Game")) {
 if (location.pathname.includes("host/") == true && location.pathname != "host/join") {
