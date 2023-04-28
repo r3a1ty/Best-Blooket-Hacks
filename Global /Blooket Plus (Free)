@@ -25,7 +25,7 @@ function console_msg(file, state) {
        console.info('%c📁 Loaded: '+file+'.js\n', style );
        console.group("📣 Blooket Hacks By R3A1TY - Announcement 📣"); // Open Console Group
        var style = 'color: tomato; -webkit-text-stroke: 1px black; font-size:30px;';
-       console.info('%c👋🏻 Hi, We are Happy to have you as one of our users', style );
+       console.info('%c👋🏻 Hi, We Are Happy That You Are Using Blooket++ By R3A1TY LLC ', style );
        var style = 'color: blue; -webkit-text-stroke: 1px black; font-size:30px;';
        console.info('%c⭐️ Please star our Github repo', style );
        if (state === true) {
