@@ -8,5 +8,4 @@ Blooket++ (Acess Gamemodes That Is ONLY For Blooket+ For $0)
 
 #
 # WARNING ISSUIE
-Currently no warning at the moment! So feel free to use our hacks! 
-Make a issuie for bug fixes!
+WARNING : Spam Buy Blooks Is Under Work In Progress Due To Bugs! Warning Expires Tomorrow!!!
