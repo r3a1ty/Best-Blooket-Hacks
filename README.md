@@ -1,15 +1,8 @@
-# Blooket-Mods
-We Are Updating The File Currently Look At Update Log Every Week For Updates To Be Released
-The Current Software Is BLOOK-V1-MOD 
-We Will Add New Updates To GUI Every single Update Also Files Are Coming Soon!!
+# Best-Blooket-Hacks
+Welcome To Best-Blooket-Hacks The #1 Blooket Hacks out there! We have a GUI for blooket-hacks where it has all gamemodes!!! Before using the blooket-hacks read the warning before actviting the hacks! Sometimes the GUI may not load in so that's why the warning isssue is there for you!
 
-UPDATE LOG :
-Release For GUI 
+CURRENT API : BestBlooket4.2 
 
-
-WARNING :
-I DONT TAKE RESPONSBILETY OF WHAT HAPPENNS TO YOU. IF YOU DONT WANT YOUR ACCOUNT TO BE DELETED THE NEXT UPDATE WILL RELEASE A PREVENT SUSPRESION FILE.
-THE UPDATES DROPS WITHIN MONDAY-FRIDAY
-I ALWAYS UPDATE HERE FOR ANY NEWS!!
-
-CLICK ON BRANCHES FILES TO ACESS THE SCRIPT
+# WARNING ISSUIE
+Currently no warning at the moment! So feel free to use our hacks! 
+Make a issuie for bug fixes!
