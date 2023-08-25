@@ -188,7 +188,7 @@
                         fontWeight: "700",
                         userSelect: "text"
                     },
-                    innerHTML: "GitHub - 05Konz"
+                    innerHTML: "This GUI Is owned by best-blooket-hacks"
                 }),
                 (controlButtons = createElement("div", {
                     id: "controlButtons",
