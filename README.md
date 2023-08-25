@@ -1,11 +1,9 @@
 # Best-Blooket-Hacks
-Welcome To Best-Blooket-Hacks The #1 Blooket Hacks out there! We have a GUI for blooket-hacks where it has all gamemodes!!! Before using the blooket-hacks read the warning before actviting the hacks! Sometimes the GUI may not load in so that's why the warning isssue is there for you!
 
-CURRENT API : BestBlooket4.2 
+Hey there, My name is R3A1TY and welcome to Best-Blooket-Hacks. We here at Best-Blooket-Hacks are here to bring you the best hacks to be released and acessed on school computers and pc for blookets.
 
+We actaully own these hacks even though it says "Created By Oneminesraft2" 
 
-Blooket++ (Acess Gamemodes That Is ONLY For Blooket+ For $0)
+# DISCLAMER :
 
-#
-# WARNING ISSUIE
-WARNING : Spam Buy Blooks Is Under Work In Progress Due To Bugs! Warning Expires Tomorrow!!!
+Oneminesrfat2 hacks were deleted recently and i was able to get the hold of these hacks. Oneminesraft2 wanted me to delete this at first since we launched and i have put this privite. I was able to get a hold on Oneminesraft2's GUI and release it to the public.
