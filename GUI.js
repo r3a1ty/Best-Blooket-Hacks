@@ -188,7 +188,7 @@
                         fontWeight: "700",
                         userSelect: "text"
                     },
-                    innerHTML: "GitHub - 05Konz"
+                    innerHTML: "R3A1TY LLC"
                 }),
                 (controlButtons = createElement("div", {
                     id: "controlButtons",
